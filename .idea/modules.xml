@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm-Design.iml" filepath="$PROJECT_DIR$/Algorithm-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab1/Lab1.iml" filepath="$PROJECT_DIR$/Lab1/Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab10/Lab10.iml" filepath="$PROJECT_DIR$/Lab10/Lab10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab11/Lab11.iml" filepath="$PROJECT_DIR$/lab11/Lab11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab12/Lab12.iml" filepath="$PROJECT_DIR$/Lab12/Lab12.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab2/Lab2.iml" filepath="$PROJECT_DIR$/Lab2/Lab2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab3/Lab3.iml" filepath="$PROJECT_DIR$/Lab3/Lab3.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab4/Lab4.iml" filepath="$PROJECT_DIR$/Lab4/Lab4.iml" />
@@ -11,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/Lab6/Lab6.iml" filepath="$PROJECT_DIR$/Lab6/Lab6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab7_1/Lab7_1.iml" filepath="$PROJECT_DIR$/Lab7_1/Lab7_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lab7_2/Lab7_2.iml" filepath="$PROJECT_DIR$/Lab7_2/Lab7_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab8/Lab8.iml" filepath="$PROJECT_DIR$/Lab8/Lab8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab9/Lab9.iml" filepath="$PROJECT_DIR$/Lab9/Lab9.iml" />
     </modules>
   </component>
 </project>

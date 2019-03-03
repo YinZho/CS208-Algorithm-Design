@@ -90,7 +90,7 @@ public class Main {
     int j = mid;
     int k = left;
 
-    while (i < mid & j <= right) {
+    while (i < mid && j <= right) {
       if (arr[i] <= arr[j]) {
         tmp[k] = arr[i];
         i++;
